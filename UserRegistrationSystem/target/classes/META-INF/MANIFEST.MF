@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: UserRegistrationSystem
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: prahlad.rao
+Implementation-Vendor-Id: com.apress.ravi
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/UserRegistrationSystem
+Created-By: Maven Integration for Eclipse
+
